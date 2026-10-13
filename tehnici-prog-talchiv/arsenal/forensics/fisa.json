@@ -1,0 +1,8 @@
+{
+  "intrare": "probe/challenge.bin",
+  "strat": [
+    "base64",
+    "xor(cheie=128)"
+  ],
+  "rezultat": "FLAG{lant_complet_despicat}"
+}
